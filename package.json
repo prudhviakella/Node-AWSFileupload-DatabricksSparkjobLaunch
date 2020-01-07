@@ -1,0 +1,36 @@
+{
+  "name": "aaravnode",
+  "version": "1.0.0",
+  "description": "Aarav Node Timesheet ",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "Aarav-Timesheet"
+  ],
+  "author": "PrudhviAkella",
+  "license": "ISC",
+  "dependencies": {
+    "aadhaar-validator": "^1.0.5",
+    "aws-s3-async": "^1.0.4",
+    "aws-sdk": "^2.417.0",
+    "axios": "^0.18.0",
+    "bcryptjs": "^2.4.3",
+    "body-parser": "^1.18.3",
+    "cors": "^2.8.5",
+    "csv-parser": "^2.2.0",
+    "elasticsearch": "^15.2.0",
+    "express": "^4.16.4",
+    "express-jwt": "^5.3.1",
+    "fast-csv": "^2.4.1",
+    "formidable": "^1.2.1",
+    "generate-password": "^1.4.1",
+    "jsonwebtoken": "^8.4.0",
+    "mongodb": "^3.1.13",
+    "mongoose": "^5.4.18",
+    "multer": "^1.4.1",
+    "nodemailer": "^5.1.1",
+    "sendmail": "^1.4.1"
+  }
+}
